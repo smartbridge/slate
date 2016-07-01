@@ -9,6 +9,7 @@
             "email": "mihai.matei@smartbridge.ch"
         }
     ],
+    "version": "1.0",
     "minimum-stability": "stable",
     "require": {}
 }
