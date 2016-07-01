@@ -9,6 +9,6 @@
             "email": "mihai.matei@smartbridge.ch"
         }
     ],
-    "minimum-stability": "@stable",
+    "minimum-stability": "dev",
     "require": {}
 }
