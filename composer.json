@@ -1,0 +1,14 @@
+{
+    "name": "smartbridge/slate",
+    "description": "Generator for API documentation",
+    "type": "library",
+    "license": "Apache License 2.0",
+    "authors": [
+        {
+            "name": "mihaimatei",
+            "email": "mihai.matei@smartbridge.ch"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
