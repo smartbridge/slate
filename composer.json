@@ -5,10 +5,11 @@
     "license": "Apache License 2.0",
     "authors": [
         {
-            "name": "mihaimatei",
+            "name": "Mihai MATEI",
             "email": "mihai.matei@smartbridge.ch"
         }
     ],
-    "minimum-stability": "stable",
+    "version": "1.0.1",
+    "minimum-stability": "dev",
     "require": {}
 }
